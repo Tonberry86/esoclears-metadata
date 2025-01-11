@@ -1,0 +1,9 @@
+Privacy Policy
+
+* Data we collect
+- ESO Clears Bot scans images to find completion of ESO content.
+- ESO Clears Bot collects data around what Roles users have in order to produce:
+  1. Anonymized statistics about the number of users who have cleared content.
+  2. The ability for users to check the clears that another user has across servers.
+- ESO Clears Bot has per-server configuration which contains only data server owners configure, which is publicly visible on the server itself already.
+- ESO Clears Bot keeps track of which user submits which image, to attempt to mitigate against fraudulent images.
